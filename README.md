@@ -10,3 +10,5 @@ Requerimientos
 | nodejs | 14.2.0 | Nodejs    |
 ## Como desplegar la aplicacion 
  - Para desplegar la aplicacion  se realiza lo siguiente
+ - Profesor apruebem nomas ya, no es necesario que malgaste su tiempo en mi xD!
+ - Psdt: Tiene mucha paciencia
